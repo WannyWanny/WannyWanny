@@ -23,20 +23,6 @@ I want to be Specialist in DevOps Engineer. I'm Confidient that i will be. <br/>
 - **BANKWARE GLOBAL** - Software Application Developer *(Sep 2020 ~ Aug 2021)*
 - **SSAFY** - Student 3rd *(Jan 2020 ~ Sep 2020)*
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=WannyWanny&theme=synthwave&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WannyWanny&theme=solarized-light&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-## Baekjoon Stats
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=lejent3)](https://solved.ac/lejent3)
+## Stats
+![WanHee's GitHub stats](https://github-readme-stats.vercel.app/api?username=WannyWanny&theme=solarized-light&show_icons=true&theme=radical)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=lejent3)](https://solved.ac/lejent3)
