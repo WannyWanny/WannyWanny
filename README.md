@@ -15,7 +15,7 @@ Hello, I'm WanHee Lee!
 
 I am a DevOps Engineer from South Korea. I'm interested in BackEnd And DevOps Engineering. <br/>
 
-I want to be Specialist in DevOps Engineer. I'm Confidient that i will be. <br/>
+I want to be Specialist in BackEnd Developer. I'm Confidient that i will be. <br/>
 ## 💪Skills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
