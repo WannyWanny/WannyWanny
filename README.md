@@ -13,19 +13,17 @@
 
 Hello, I'm WanHee Lee!
 
-I am a DevOps Engineer from South Korea. I'm interested in BackEnd And DevOps Engineering. <br/>
-
 I want to be Specialist in BackEnd Developer. I'm Confidient that i will be. <br/>
 ## 💪Skills
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![Kotlin](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 
 ## Experience
-- **HANJIN** - DevOps Engineer *(Oct 2021 ~)*
+- **MVL** - Backend Engineer *(May 2024 ~)*
+- **HANJIN** - IT Operator *(Oct 2021 ~ May 2024)*
 - **BANKWARE GLOBAL** - Software Application Developer *(Sep 2020 ~ Aug 2021)*
 - **SSAFY** - Student 3rd *(Jan 2020 ~ Sep 2020)*
 
